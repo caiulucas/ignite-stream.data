@@ -29,6 +29,8 @@
     },
     "ios": {
       "bundleIdentifier": "com.rocketseat.twitchlogin"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/caiulucas/ignite-stream.data"
   }
 }
